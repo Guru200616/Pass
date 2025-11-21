@@ -1,0 +1,5 @@
+# Tkinter comes with standard Python on most systems.
+# This file is mainly for completeness.
+# For a normal desktop environment, you usually only need Python 3.x.
+
+# No external packages required.
